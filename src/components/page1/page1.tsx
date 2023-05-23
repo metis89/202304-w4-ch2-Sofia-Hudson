@@ -1,5 +1,5 @@
 import { SyntheticEvent } from 'react';
-import { Personal } from '../../models/personal.model';
+import { PersonalData } from '../../models/personal.model';
 import { Menu } from '../menu/menu';
 import { MenuOptions } from '../../types/menu.options';
 
